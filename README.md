@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Isaac-ej-dev
 - 🔭 I’m currently working on [NewsGrid Website](https://github.com/Isaac-ej-dev/isaac_repo)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **HTML CSS & JS**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
