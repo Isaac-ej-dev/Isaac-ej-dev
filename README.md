@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Isaac-ej-dev
-- 🔭 I’m currently working on [NewsGrid Website](https://github.com/Isaac-ej-dev/isaac_repo)
+- 🔭 I’m currently working on https://github.com/Isaac-ej-dev/Edgeledger_website
 
 - 🌱 I’m currently learning **HTML CSS & JS**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 🤝 I’m looking for help with [NewsGrid Website](https://github.com/Isaac-ej-dev/isaac_repo)
+- 🤝 I’m looking for help with https://github.com/Isaac-ej-dev/Edgeledger_website
 
 - 💬 Ask me about **react**
 
